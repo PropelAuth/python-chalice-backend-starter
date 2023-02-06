@@ -8,7 +8,7 @@ You can use this with any compatible frontend, like the [React PropelAuth Starte
 
 ### Using this repo
 
-Make sure to update `.env` with your project's information. Then setup your venv, install, and run:
+Make sure to update `example/app.py` with your project's information. Then setup your venv, install, and run:
 
 ```shell
 python3 -m venv venv
